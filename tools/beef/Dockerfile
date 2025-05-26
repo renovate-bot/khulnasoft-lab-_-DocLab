@@ -1,4 +1,4 @@
-FROM docker.io/parrotsec/core:6.1
+FROM docker.io/parrotsec/core:6.3
 MAINTAINER Lorenzo "Palinuro" Faletra (palinuro@linux.it)
 ENV DEBIAN_FRONTEND noninteractive
 ENV VERSION 0.5.0-4.11
